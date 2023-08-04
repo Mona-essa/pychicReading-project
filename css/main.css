@@ -101,7 +101,7 @@ body{
 
 /*start landing*/
 .layout-sec{
-    background-image: url(images/Psychic6_700x500.png);
+    background-image: url(/images/Psychic6_700x500.png);
     background-size: cover;
     height: 100vh;
     
