@@ -101,7 +101,7 @@ body{
 
 /*start landing*/
 .layout-sec{
-    background-image: url(/images/Psychic6_700x500.png);
+    background-image: url(images/Psychic6_700x500.png);
     background-size: cover;
     height: 100vh;
     
@@ -125,7 +125,7 @@ body{
 
 /*start about me*/
 .about-me{
-    background-image: url(/images/bg-About.jpeg);
+    background-image: url(images/bg-About.jpeg);
     background-size: cover;
     position: relative;
     
@@ -188,7 +188,7 @@ body{
 .stuff{
     margin-bottom: 50px;
     margin-top:50px;
-    background-image: url(/images/bg_02_h.png);
+    background-image: url(images/bg_02_h.png);
     background-size: cover;
     padding:50px ;
     position: relative;
@@ -646,7 +646,7 @@ span{
 }
 .about-sec{
     margin-bottom: 50px;
-    background-image: url(/images/ae2b9c1f6d16a27e49a8c0fc0e7c1a19.jpg);
+    background-image: url(images/ae2b9c1f6d16a27e49a8c0fc0e7c1a19.jpg);
     background-size: cover;
 }
 .about-sec .aboutInfo1{
