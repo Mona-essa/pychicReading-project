@@ -44,7 +44,7 @@ body{
 }
 
 .main-btn:hover{
-    background-image: url("data:images/purple-background.jpg");
+    background-image: url(./images/purple-background.jpg);
     color:white;
 }
 .header-sec{
